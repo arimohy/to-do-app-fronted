@@ -1,75 +1,40 @@
-# Nuxt Minimal Starter
+# To-Do App API - Nuxt.js
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+## Descripción
+Este proyecto es una aplicación de gestión de tareas construida con Nuxt.js en el frontend. Permite crear, editar, eliminar y marcar tareas como completadas. El frontend interactúa con una API para gestionar las tareas de manera eficiente.
 
-## Setup
+## Características
+- **Crear tareas**: Permite agregar nuevas tareas a la lista.
+- **Editar tareas**: Puedes modificar los detalles de las tareas existentes.
+- **Eliminar tareas**: Elimina tareas completadas o que ya no sean necesarias.
+- **Marcar tareas como completadas**: Tareas completadas pueden ser marcadas y desmarcadas.
+- **Interfaz limpia y sencilla**: Diseño optimizado para facilitar la gestión de tareas.
 
-Make sure to install dependencies:
+## Tecnologías
+- **Frontend**: Nuxt.js (Vue.js)
+- **Backend**: django rest Framework (Python) 
+- **Base de datos**: (Indicar la base de datos si la tienes conectada)
+- **Estilos**: (Indicar si usas alguna librería como Tailwind, Bootstrap, etc.)
 
-```bash
-# npm
+## Instalación
+
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/arimohy/to-do-app-fronted.git
+2. Clona el backend :
+   git clone https://github.com/arimohy/to_do_app_backend
+3.
 npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
+4.
 npm run dev
 
-# pnpm
-pnpm dev
 
-# yarn
-yarn dev
+# To-Do App API - Nuxt.js
 
-# bun
-bun run dev
-```
+## Video demostrativo
 
-## Production
+Para ver cómo funciona la aplicación, puedes revisar el siguiente video de demostración:
 
-Build the application for production:
+![Lista de tareas](https://github.com/arimohy/to-do-app-nuxt/raw/main/assets/videos/lista%20de%20tareas.mp4)
 
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+*Nota: Haz clic en el video para verlo directamente desde GitHub.*
