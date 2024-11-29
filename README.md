@@ -35,6 +35,6 @@ npm run dev
 
 Para ver cómo funciona la aplicación, puedes revisar el siguiente video de demostración:
 
-![Lista de tareas](https://github.com/arimohy/to-do-app-nuxt/raw/main/assets/videos/lista%20de%20tareas.mp4)
+![Lista de tareas](https://github.com/arimohy/to-do-app-fronted/blob/master/lista%20de%20tareas.mp4)
 
 *Nota: Haz clic en el video para verlo directamente desde GitHub.*
